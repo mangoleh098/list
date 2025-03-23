@@ -1,4 +1,3 @@
-host
 www.sctinfo.com
 aws-india.com
 www.event.sopa.org
